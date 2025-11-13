@@ -11,7 +11,7 @@ postres database
 Follow these steps to install and set up the project.
 ### Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/Do1os/thumbly
 ```
 
 ### Navigate to the Project Directory
